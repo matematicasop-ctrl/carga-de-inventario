@@ -1,0 +1,5 @@
+{
+  "name": "SheetReport Pro",
+  "description": "An intelligent data management tool that simulates spreadsheet functionality, allows data entry, and uses Gemini AI to generate professional, printable business reports.",
+  "requestFramePermissions": []
+}
